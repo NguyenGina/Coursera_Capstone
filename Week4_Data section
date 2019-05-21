@@ -1,0 +1,8 @@
+DATA SECTION
+
+First, we will need the data for crime incident in Houston including rate, type, and location. 
+  Source: https://www.neighborhoodscout.com/tx/houston/crime
+Second, we will need the data for price of house in Houston icluding location, type, increasing price rate in 5 years.
+  Source: https://www.zillow.com/houston-tx/home-values/
+Last, we will need the data for neighborhood's latitude and longtitude in Houston of each location.
+  Source: https://en.wikipedia.org/wiki/List_of_Houston_neighborhoods
