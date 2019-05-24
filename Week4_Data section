@@ -1,8 +1,10 @@
 DATA SECTION
 
-First, we will need the data for crime incident in Houston including rate, type, and location. 
-  Source: https://www.neighborhoodscout.com/tx/houston/crime
-Second, we will need the data for price of house in Houston icluding location, type, increasing price rate in 5 years.
-  Source: https://www.zillow.com/houston-tx/home-values/
-Last, we will need the data for neighborhood's latitude and longtitude in Houston of each location.
-  Source: https://en.wikipedia.org/wiki/List_of_Houston_neighborhoods
+First, we will need the data for Median Household Income
+    Source: https://datausa.io/profile/geo/pearland-tx/#housing
+Second, we will need the data for price of house in Houston 
+  Source: https://datausa.io/profile/geo/pearland-tx/#housing
+Third, we will need the data for Property Tax
+  Source: https://datausa.io/profile/geo/pearland-tx/#housing
+Last, we will need the data for Diversity of Non-English Speaker
+  Source: https://datausa.io/profile/geo/pearland-tx/#demographics
